@@ -1,4 +1,3 @@
-
 .post-container {
       display: flex;
       justify-content: left;
@@ -9,19 +8,17 @@
       max-width: 350px;
       margin-left: 25px;
       
-      
 }
 
 .posts-wrapper {
       display: flex;
       flex-direction: column;
       flex-wrap: wrap;
-      gap: 12px;
       padding-left: 15px;
       margin-bottom: 10px;
+      gap: 8px;
 }
 
 .title-hold {
-      padding-left: 15px;
-
+      padding-left: 20px;
 }
