@@ -17,4 +17,3 @@
 ### Project Content
 
 - React JS
-- I use SASS as CSS Pre-Processor
