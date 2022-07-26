@@ -1,0 +1,23 @@
+.tag-container {
+      margin: 25px 25px;
+      max-width:520px;
+      background-color: var(--div-bg-color);
+      border-radius: 12px;
+      border:8px solid #ffffff;
+      display: flex;
+      justify-content: left;
+      flex-direction: column;
+      padding-left: 26px;
+      padding-right: 26px;
+      padding-bottom: 26px;
+      padding-top: 26px;
+
+}
+
+.tag-wrapper {
+      display: flex;
+      justify-content: left;
+      flex-wrap: wrap;
+      gap: 8px;
+
+}
