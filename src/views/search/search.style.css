@@ -1,0 +1,12 @@
+.search-container {
+      margin-top: -300px;
+      margin-left: 500px;
+      padding: 32px;
+      background-color: #F1E2F5;
+      max-width: 550px;
+      border: 8px solid #ffffff;
+      border-radius: 12px;
+      display: flex;
+      gap: 15px;
+      flex-wrap: wrap;
+}

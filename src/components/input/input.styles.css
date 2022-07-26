@@ -1,0 +1,25 @@
+input {
+      width: 330px;
+      height: 60px;
+      border: none;
+      border-radius: 16px;
+      outline: none;
+      background-color: #ffffff;
+      font-size: 12px;
+      font-family: 'Poppins';
+      font-weight: 400;
+      padding-left: 55px;
+}
+
+form {
+      position: relative;
+}
+
+img {
+      position: absolute;
+      margin-top: 12px;
+      left: 5px;
+      width:32px;
+      height: 32px;
+      margin-left: 8px;     
+}
