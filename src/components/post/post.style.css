@@ -1,7 +1,23 @@
-.post-label {
-
+.post-div {
+      width: 300px;
+      display: flex;
+      justify-content: left;
+      border-radius: 12px;
+}
+.post-a {
+      text-decoration: none;
+      color: #1A2653;
+      font-family: 'Poppins';
+      font-weight: 600;
+      font-size: 12px;
+      padding-top: 16px;
+      padding-bottom: 16px;
+      padding-left: 16px;
+      padding-right: 16px;
+      border-radius: 12px;
 }
 
-.post-a {
-      
+
+.post-div:active {
+      background-color: #ffffff;
 }

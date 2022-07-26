@@ -2,11 +2,11 @@ import "./post.style.css";
 
 const Post = ({ postName }) => {
   return (
-    <label className="post-label">
+    <div className="post-div">
       <a href="#" className="post-a">
         {postName}
       </a>
-    </label>
+    </div>
   );
 };
 

@@ -1,6 +1,6 @@
 .title {
-      font-family: 'Merrieweathe';
-      font-weight: 700 bold;
+      font-family: Merriweather;
+      font-weight: 700 ;
       color: var(--txt-color);
       font-size: 20px;
 }

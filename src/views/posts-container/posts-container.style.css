@@ -1,0 +1,27 @@
+
+.post-container {
+      display: flex;
+      justify-content: left;
+      flex-direction: column;
+      background-color: #F1E2F5;
+      border-radius: 12px;
+      border:8px solid #ffffff;
+      max-width: 350px;
+      margin-left: 25px;
+      
+      
+}
+
+.posts-wrapper {
+      display: flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+      gap: 12px;
+      padding-left: 15px;
+      margin-bottom: 10px;
+}
+
+.title-hold {
+      padding-left: 15px;
+
+}
