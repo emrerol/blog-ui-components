@@ -4,9 +4,9 @@
 
 ---
 
-### Demo
+### Live
 
-> Soon
+> https://blog-ui-components.vercel.app
 
 ---
 
@@ -17,3 +17,4 @@
 ### Project Content
 
 - React JS
+- No CSS Frameworks and Pre-Processors
